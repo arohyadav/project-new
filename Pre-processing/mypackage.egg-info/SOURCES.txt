@@ -1,0 +1,11 @@
+setup.py
+data_processing/csv/__init__.py
+data_processing/csv/csv_processing.py
+data_processing/excel/__init__.py
+data_processing/excel/excel_processing.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/entry_points.txt
+mypackage.egg-info/requires.txt
+mypackage.egg-info/top_level.txt

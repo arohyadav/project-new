@@ -1,0 +1,17 @@
+apache-beam
+gcsfs
+apache-beam[gcp]
+beam-nuggets
+apache-beam[interactive]
+mysql-connector-python==8.0.26
+psycopg2
+psycopg2-binary
+pandas
+google-cloud-storage
+google-cloud-pubsub
+openpyxl
+argparse
+numpy
+pandas
+
+
